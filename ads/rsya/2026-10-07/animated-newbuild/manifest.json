@@ -1,0 +1,15 @@
+{
+  "size": [
+    300,
+    600
+  ],
+  "html5_zip_bytes": 106903,
+  "gif_bytes": 264970,
+  "html5_duration_ms": 6000,
+  "gif_duration_ms": 6100,
+  "gif_frames": 61,
+  "gif_loop": "no repeat",
+  "limit_user_bytes": 512000,
+  "direct_upload_validated": false,
+  "browser_check": "Chromium: assets, dimensions, finite animation, no JS errors, mocked click API passed"
+}
