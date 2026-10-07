@@ -1,0 +1,98 @@
+[
+  {
+    "id": "01-audit-mandatory",
+    "filter": "Обязательный аудит",
+    "solution": "Проверка отчётности Аудиторское заключение",
+    "cta": "Запросить расчёт",
+    "scene": "a sophisticated 3D sculptural scene of financial reports, a magnifying glass, blue portfolio with a gold checkmark, office glass facade; no shield no tax threats",
+    "style": "Square 1:1; light ivory background; navy #173B5E; 3D scene; turquoise CTA; Russian text; safe margins; no unsupported guarantees"
+  },
+  {
+    "id": "02-audit-planning",
+    "filter": "Пора планировать аудит?",
+    "solution": "Обсудим сроки и документы",
+    "cta": "Обсудить задачу",
+    "scene": "a sophisticated 3D sculptural scene of a desk calendar, carefully organized financial document folders and a blue clock, office architectural setting",
+    "style": "Square 1:1; light ivory background; navy #173B5E; 3D scene; turquoise CTA; Russian text; safe margins; no unsupported guarantees"
+  },
+  {
+    "id": "03-audit-voluntary",
+    "filter": "Инициативный аудит",
+    "solution": "Независимая проверка для собственника",
+    "cta": "Обсудить проверку",
+    "scene": "a sophisticated 3D sculptural scene of financial charts under a magnifying glass, document folder, business owner desk, navy blue and subtle gold",
+    "style": "Square 1:1; light ivory background; navy #173B5E; 3D scene; turquoise CTA; Russian text; safe margins; no unsupported guarantees"
+  },
+  {
+    "id": "04-valuation-mortgage",
+    "filter": "Квартира для ипотеки?",
+    "solution": "Оценка недвижимости для оформления кредита",
+    "cta": "Запросить расчёт",
+    "scene": "a sophisticated 3D sculptural scene of a modern apartment miniature, keys, assessment report, understated blue architecture",
+    "style": "Square 1:1; light ivory background; navy #173B5E; 3D scene; turquoise CTA; Russian text; safe margins; no unsupported guarantees"
+  },
+  {
+    "id": "05-valuation-business",
+    "filter": "Оценка бизнеса и долей",
+    "solution": "Определим стоимость для вашей задачи",
+    "cta": "Обсудить оценку",
+    "scene": "a sophisticated 3D sculptural scene of enterprise miniature, pie chart and financial valuation report, blue and restrained gold",
+    "style": "Square 1:1; light ivory background; navy #173B5E; 3D scene; turquoise CTA; Russian text; safe margins; no unsupported guarantees"
+  },
+  {
+    "id": "06-valuation-property",
+    "filter": "Оценка недвижимости",
+    "solution": "Земля, здания и коммерческие объекты",
+    "cta": "Запросить расчёт",
+    "scene": "a sophisticated 3D sculptural scene of land parcel, modern commercial building miniature and valuation report, blue architectural forms",
+    "style": "Square 1:1; light ivory background; navy #173B5E; 3D scene; turquoise CTA; Russian text; safe margins; no unsupported guarantees"
+  },
+  {
+    "id": "07-expertise-building",
+    "filter": "Спор о качестве работ?",
+    "solution": "Строительно-техническая экспертиза",
+    "cta": "Обсудить задачу",
+    "scene": "a sophisticated 3D sculptural scene of construction plan, inspection magnifying glass and a cross-section of a modern building, blue safety helmet",
+    "style": "Square 1:1; light ivory background; navy #173B5E; 3D scene; turquoise CTA; Russian text; safe margins; no unsupported guarantees"
+  },
+  {
+    "id": "08-expertise-land",
+    "filter": "Спор о границах участка?",
+    "solution": "Землеустроительная экспертиза",
+    "cta": "Обсудить задачу",
+    "scene": "a sophisticated 3D sculptural scene of land plot surveying, geometric boundary markers, cadastral plan and modern survey instrument, blue accents",
+    "style": "Square 1:1; light ivory background; navy #173B5E; 3D scene; turquoise CTA; Russian text; safe margins; no unsupported guarantees"
+  },
+  {
+    "id": "09-expertise-fire",
+    "filter": "Нужно выяснить причину пожара?",
+    "solution": "Пожарно-техническая экспертиза",
+    "cta": "Обсудить задачу",
+    "scene": "a sophisticated 3D sculptural scene of careful investigation of a damaged building model, magnifier and investigation report, restrained small orange accents, no people in distress",
+    "style": "Square 1:1; light ivory background; navy #173B5E; 3D scene; turquoise CTA; Russian text; safe margins; no unsupported guarantees"
+  },
+  {
+    "id": "10-realty-buy",
+    "filter": "Ищете квартиру на вторичном рынке?",
+    "solution": "Подбор квартиры под ваши требования",
+    "cta": "Обсудить подбор",
+    "scene": "a sophisticated 3D sculptural scene of an attractive established residential building, apartment keys and three apartment floor plan options, blue accents",
+    "style": "Square 1:1; light ivory background; navy #173B5E; 3D scene; turquoise CTA; Russian text; safe margins; no unsupported guarantees"
+  },
+  {
+    "id": "11-realty-sell",
+    "filter": "Продаёте квартиру?",
+    "solution": "Помощь с продажей и сопровождением сделки",
+    "cta": "Обсудить продажу",
+    "scene": "a sophisticated 3D sculptural scene of elegant apartment interior miniature, keys and a contract document, navy blue and muted warm accents",
+    "style": "Square 1:1; light ivory background; navy #173B5E; 3D scene; turquoise CTA; Russian text; safe margins; no unsupported guarantees"
+  },
+  {
+    "id": "12-realty-newbuild",
+    "filter": "Выбираете новостройку?",
+    "solution": "Подбор вариантов под ваш бюджет",
+    "cta": "Обсудить подбор",
+    "scene": "a sophisticated 3D sculptural scene of attractive modern new residential development with landscaped grounds, apartment floor plan and keys, blue accents",
+    "style": "Square 1:1; light ivory background; navy #173B5E; 3D scene; turquoise CTA; Russian text; safe margins; no unsupported guarantees"
+  }
+]

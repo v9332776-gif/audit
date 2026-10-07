@@ -1,0 +1,98 @@
+[
+  {
+    "id": "01-audit-mandatory",
+    "file": "banners/01-audit-mandatory.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1928243,
+    "sha256": "0702a4eb6a855a7b2b69c56d40613a057a54d0ca8be2a3f7a395b9c3d685e47b"
+  },
+  {
+    "id": "02-audit-planning",
+    "file": "banners/02-audit-planning.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1697503,
+    "sha256": "f3daf2ec866263d77c3cdee34b07bb4ae776b9e992af53b066df2fa1393fec41"
+  },
+  {
+    "id": "03-audit-voluntary",
+    "file": "banners/03-audit-voluntary.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1792355,
+    "sha256": "f2c880a360ac7ecf4d129ccbe74464aaf44043935397ccb48c7cde6d4b090a41"
+  },
+  {
+    "id": "04-valuation-mortgage",
+    "file": "banners/04-valuation-mortgage.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1750829,
+    "sha256": "2a2550e59e3e197d83f26d19d19d7fc01aadc5859d32f11258458262eb4d00c7"
+  },
+  {
+    "id": "05-valuation-business",
+    "file": "banners/05-valuation-business.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1756417,
+    "sha256": "a808ce2a0d2886b132524868dff5e179b5bdd8623e218579bf77576c28d48ea0"
+  },
+  {
+    "id": "06-valuation-property",
+    "file": "banners/06-valuation-property.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1903496,
+    "sha256": "a076ec5f9a3f27006cf4da34537fad567fec46fa4d264e95f0ae2a09ef94a404"
+  },
+  {
+    "id": "07-expertise-building",
+    "file": "banners/07-expertise-building.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1979499,
+    "sha256": "94c4fa45f8248f84896380582e89e51488abd1cc9f38b272bab7ccae025826ec"
+  },
+  {
+    "id": "08-expertise-land",
+    "file": "banners/08-expertise-land.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1959020,
+    "sha256": "53732fb15d3fa6a4a72eeb92761a580c22a62776ade2a6a38367193adccc8613"
+  },
+  {
+    "id": "09-expertise-fire",
+    "file": "banners/09-expertise-fire.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1998062,
+    "sha256": "96d470d41c9b8365fd7d6897d8b46e29dfb17d5c9513f171ba709c4879648073"
+  },
+  {
+    "id": "10-realty-buy",
+    "file": "banners/10-realty-buy.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 2049576,
+    "sha256": "11e2a78d9e15ce218922177a9595c26d78a112396806bde6019f5e685dc0f112"
+  },
+  {
+    "id": "11-realty-sell",
+    "file": "banners/11-realty-sell.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1799524,
+    "sha256": "cdaef6b01e8ea392f54b5e06c6af60919420fd1a33f607662aeb147335a773f7"
+  },
+  {
+    "id": "12-realty-newbuild",
+    "file": "banners/12-realty-newbuild.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 2151729,
+    "sha256": "6a9ddb4aa9ca9bc1a5cf067288cac1c07a358f05693b1a6edd99bc4ee844ae3c"
+  }
+]
